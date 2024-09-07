@@ -1,6 +1,8 @@
 # Jorik-Evil-Incorporated-Secret-Files
 This is a collection of different files created in J.E,I.
 
+You will have to download the files from different folders in the repo....
+
 
 P.S.
 
