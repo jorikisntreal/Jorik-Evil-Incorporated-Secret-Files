@@ -1,4 +1,4 @@
-package doodads
+package jeidoodads
 
 //! Make better code
 
